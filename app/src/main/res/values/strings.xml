@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FeedTheCat</string>
+    <string name="feed_button">Feed</string>
+    <string name="satiety">Satiety: %d</string>
+    <string name="share_result">Share result</string>
+    <string name="sing_out">Sign out</string>
+    <string name="greeting_string">Hi, %1$s!</string>
+    <string name="date_string">Date</string>
+    <string name="score_string">Score</string>
+    <string name="info_string">Info</string>
+    <string name="dots_string">dots</string>
+</resources>
